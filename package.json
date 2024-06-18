@@ -9,9 +9,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tarun Chauhan",
+  "author": "Anubhav",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.16.0",
     "cloudinary": "^1.41.0",
@@ -31,5 +30,6 @@
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^8.0.0",
     "path": "^0.12.7"
-  }
+  },
+  "description": ""
 }
